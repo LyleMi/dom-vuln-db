@@ -4,6 +4,7 @@
 
 CVE Number | Title | Credit
 ---------- | ----- | ------
+[CVE-2018-4197](./Webkit/CVE-2018-4197.md) | Use-after-free in WebCore::RenderTreeBuilder::removeAnonymousWrappersForInlineChildrenIfNeeded | ifratric
 [CVE-2018-4312](./Webkit/CVE-2018-4312.md) | Use-after-free in WebCore::AXObjectCache::handleMenuItemSelected | ifratric
 [CVE-2018-4315](./Webkit/CVE-2018-4315.md) | Use-after-free in WebCore::SVGTRefElement::updateReferencedText | ifratric
 [CVE-2018-4317](./Webkit/CVE-2018-4317.md) | Use-after-free in WebCore::RenderLayer::updateDescendantDependentFlags | ifratric

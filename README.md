@@ -1,5 +1,11 @@
 # Case Study of Browser DOM Vulnerabilities
 
+## Edge
+
+CVE Number | Module | Label | Credit
+---------- | ------ | ----- | ------
+[CVE-2016-0003](./Webkit/CVE-2016-0003.md) | CDOMTextNode | Type Confusion | unknown
+
 ## Webkit
 
 CVE Number | Module | Label | Credit

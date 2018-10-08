@@ -6,6 +6,7 @@ CVE Number | Module | Label | Credit
 ---------- | ------ | ----- | ------
 [CVE-2016-0003](./Edge/CVE-2016-0003.md) | CDOMTextNode | Type Confusion | unknown
 [CVE-2017-0037](./Edge/CVE-2017-0037.md) | CssParser | Type Confusion | ifratric
+[CVE-2017-8496](./Edge/CVE-2017-8496.md) | CssParser | Type Confusion | ifratric
 
 ## Webkit
 

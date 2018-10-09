@@ -12,6 +12,7 @@ CVE Number | Module | Label | Credit
 CVE Number | Module | Label | Credit
 ---------- | ------ | ----- | ------
 [CVE-2018-4197](./Webkit/CVE-2018-4197.md) | RenderTreeBuilder | UAF | ifratric
+[CVE-2018-4306](./Webkit/CVE-2018-4306.md) | Node | UAF | ifratric
 [CVE-2018-4312](./Webkit/CVE-2018-4312.md) | AXObjectCache | UAF | ifratric
 [CVE-2018-4315](./Webkit/CVE-2018-4315.md) | SVGTRefElement | UAF, SVG | ifratric
 [CVE-2018-4317](./Webkit/CVE-2018-4317.md) | RenderLayer | UAF | ifratric

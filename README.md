@@ -1,5 +1,13 @@
 # Case Study of Browser DOM Vulnerabilities
 
+> Inspired by [js-vuln-db](https://github.com/tunz/js-vuln-db)
+
+## Firefox
+
+CVE Number | Module | Label | Credit
+---------- | ------ | ----- | ------
+[CVE-2017-5447](./Firefox/CVE-2017-5447.md) | gfxTextRun | OOB Read | ifratric
+
 ## Edge
 
 CVE Number | Module | Label | Credit

@@ -6,6 +6,7 @@
 
 CVE Number | Module | Label | Credit
 ---------- | ------ | ----- | ------
+[CVE-2017-5465](./Firefox/CVE-2017-5465.md) | ConvolvePixel | Memory Disclosure | ifratric
 [CVE-2017-5447](./Firefox/CVE-2017-5447.md) | gfxTextRun | OOB Read | ifratric
 
 ## Edge

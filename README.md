@@ -2,6 +2,12 @@
 
 > Inspired by [js-vuln-db](https://github.com/tunz/js-vuln-db)
 
+## Chrome
+
+CVE Number / ID | Module | Label | Credit
+--------------- | ------ | ----- | ------
+[CR-666246](./Chrome/CR-666246.md) | HTMLSelectElement | UAF | ifratric
+
 ## Firefox
 
 CVE Number | Module | Label | Credit

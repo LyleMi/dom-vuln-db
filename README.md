@@ -12,8 +12,9 @@ CVE Number / ID | Module | Label | Credit
 
 CVE Number | Module | Label | Credit
 ---------- | ------ | ----- | ------
-[CVE-2017-5465](./Firefox/CVE-2017-5465.md) | ConvolvePixel | Memory Disclosure | ifratric
+[CVE-2016-9079](./Firefox/CVE-2016-9079.md) | nsSMILTimeContainer | UAF | Daniel Veditz
 [CVE-2017-5447](./Firefox/CVE-2017-5447.md) | gfxTextRun | OOB Read | ifratric
+[CVE-2017-5465](./Firefox/CVE-2017-5465.md) | ConvolvePixel | Memory Disclosure | ifratric
 
 ## Edge
 

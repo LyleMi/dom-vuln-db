@@ -44,3 +44,4 @@ CVE Number | Module | Label | Credit
 ---------- | ------ | ----- | ------
 [CVE-2012-4792](./IE/CVE-2012-4792.md) | CButton | UAF | unknown
 [CVE-2015-6152](./IE/CVE-2015-6152.md) | CObjectElement | UAF | unknown
+[CVE-2018-8460](./IE/CVE-2018-8460.md) | CStyleAttrArray | Double Free | Simon Zuckerbraun

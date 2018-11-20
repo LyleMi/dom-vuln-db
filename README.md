@@ -6,6 +6,7 @@
 
 CVE Number / ID | Module | Label | Credit
 --------------- | ------ | ----- | ------
+[CVE-2018-6073](./Chrome/CVE-2018-6073.md) | WebGL | Heap Overflow | om...@krash.in
 [CVE-2018-16082](./Chrome/CVE-2018-16082.md) | sw::Surface | Stack Overflow | om...@krash.in
 [CR-666246](./Chrome/CR-666246.md) | HTMLSelectElement | UAF | ifratric
 
